@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rav1Chauhan/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Rav1Chauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Rav1Chauhan/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rav1Chauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rav1Chauhan/DSA/tree/master/0169-majority-element) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Rav1Chauhan/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rav1Chauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
