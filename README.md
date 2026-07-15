@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rav1Chauhan/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Rav1Chauhan/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rav1Chauhan/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Rav1Chauhan/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rav1Chauhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -124,8 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rav1Chauhan/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Rav1Chauhan/DSA/tree/master/0014-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rav1Chauhan/DSA/tree/master/0410-split-array-largest-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Rav1Chauhan/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
