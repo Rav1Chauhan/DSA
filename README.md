@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Rav1Chauhan/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rav1Chauhan/DSA/tree/master/0048-rotate-image) |
+| [0441-arranging-coins](https://github.com/Rav1Chauhan/DSA/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rav1Chauhan/DSA/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Rav1Chauhan/DSA/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Rav1Chauhan/DSA/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Rav1Chauhan/DSA/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rav1Chauhan/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rav1Chauhan/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
