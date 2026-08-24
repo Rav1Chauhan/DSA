@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rav1Chauhan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Rav1Chauhan/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rav1Chauhan/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rav1Chauhan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rav1Chauhan/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rav1Chauhan/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rav1Chauhan/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Rav1Chauhan/DSA/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Rav1Chauhan/DSA/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -180,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rav1Chauhan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
