@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rav1Chauhan/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rav1Chauhan/DSA/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Rav1Chauhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Rav1Chauhan/DSA/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rav1Chauhan/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rav1Chauhan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rav1Chauhan/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Rav1Chauhan/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rav1Chauhan/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rav1Chauhan/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Rav1Chauhan/DSA/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rav1Chauhan/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Rav1Chauhan/DSA/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Rav1Chauhan/DSA/tree/master/0441-arranging-coins) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rav1Chauhan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -210,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Rav1Chauhan/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Rav1Chauhan/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rav1Chauhan/DSA/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
