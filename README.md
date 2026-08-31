@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rav1Chauhan/DSA/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Rav1Chauhan/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Rav1Chauhan/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Rav1Chauhan/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rav1Chauhan/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rav1Chauhan/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Rav1Chauhan/DSA/tree/master/0053-maximum-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rav1Chauhan/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rav1Chauhan/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Rav1Chauhan/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Rav1Chauhan/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Rav1Chauhan/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Rav1Chauhan/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rav1Chauhan/DSA/tree/master/0088-merge-sorted-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rav1Chauhan/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Rav1Chauhan/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rav1Chauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Rav1Chauhan/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rav1Chauhan/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rav1Chauhan/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Rav1Chauhan/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rav1Chauhan/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rav1Chauhan/DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rav1Chauhan/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
