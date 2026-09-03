@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rav1Chauhan/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Rav1Chauhan/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rav1Chauhan/DSA/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Rav1Chauhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rav1Chauhan/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Rav1Chauhan/DSA/tree/master/0234-palindrome-linked-list) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rav1Chauhan/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Rav1Chauhan/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Rav1Chauhan/DSA/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Rav1Chauhan/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
