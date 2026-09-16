@@ -1,32 +1,43 @@
 class Solution {
+
     public void setZeroes(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
 
-        int col0 = 1;
+        boolean[] rows = new boolean[matrix.length];
+        boolean[] cols = new boolean[matrix[0].length];
 
-        // Step 1: Mark rows and columns
-        for (int i = 0; i < m; i++) {
-            if (matrix[i][0] == 0)
-                col0 = 0;
+        findZero(0, 0, matrix, rows, cols);
 
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
+        for (int i = 0; i < matrix.length; i++) {
+            for (int j = 0; j < matrix[0].length; j++) {
+
+                if (rows[i] || cols[j]) {
+                    matrix[i][j] = 0;
                 }
             }
         }
+    }
 
-        // Step 2: Fill matrix using markers
-        for (int i = m - 1; i >= 0; i--) {
-            for (int j = n - 1; j >= 1; j--) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0)
-                    matrix[i][j] = 0;
-            }
+    void findZero(
+        int i,
+        int j,
+        int[][] matrix,
+        boolean[] rows,
+        boolean[] cols
+    ) {
 
-            if (col0 == 0)
-                matrix[i][0] = 0;
+        if (i == matrix.length)
+            return;
+
+        if (j == matrix[0].length) {
+            findZero(i + 1, 0, matrix, rows, cols);
+            return;
         }
+
+        if (matrix[i][j] == 0) {
+            rows[i] = true;
+            cols[j] = true;
+        }
+
+        findZero(i, j + 1, matrix, rows, cols);
     }
 }
