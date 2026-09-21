@@ -6,13 +6,13 @@ class Solution {
         for(int i =0;i<sl;i++){
             s_p*=(int)s.charAt(i);
             t_p*=(int)t.charAt(i);
-            s_s+=(int)s.charAt(i);
-            t_s+=(int)t.charAt(i);
+            // s_s+=(int)s.charAt(i);
+            // t_s+=(int)t.charAt(i);
             s_0^=(int)s.charAt(i);
             t_0^=(int)t.charAt(i);
 
         }
-        if(s_p==t_p && s_s==t_s && s_0!=0 && t_0!=0 && s_0==t_0) return true;
+        if(s_p==t_p &&  s_0!=0 && t_0!=0 && s_0==t_0) return true;
         return false;
     }
 }
