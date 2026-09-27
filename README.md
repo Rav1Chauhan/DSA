@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Rav1Chauhan/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Rav1Chauhan/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Rav1Chauhan/DSA/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Rav1Chauhan/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rav1Chauhan/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rav1Chauhan/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rav1Chauhan/DSA/tree/master/0075-sort-colors) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rav1Chauhan/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rav1Chauhan/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rav1Chauhan/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Rav1Chauhan/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Rav1Chauhan/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Rav1Chauhan/DSA/tree/master/0202-happy-number) |
 | [0441-arranging-coins](https://github.com/Rav1Chauhan/DSA/tree/master/0441-arranging-coins) |
